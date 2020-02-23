@@ -6,4 +6,4 @@ https://www.udemy.com/course/modern-html-css-from-the-beginning
 
 > ## Topic: Animated Presentation with Smooth Scrolling
 
-### Live Demo: https://www.demo.archet.no/presentation
+### Live Demo: https://archet.no/presentation
